@@ -1,0 +1,36 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "9PN-HA-ovT.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"-\"; ObjectID = \"9PN-HA-ovT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "-"
+          }
+        }
+      }
+    },
+    "K8s-Vq-7ae.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Settings\"; ObjectID = \"K8s-Vq-7ae\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Settings"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ayarlar"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
